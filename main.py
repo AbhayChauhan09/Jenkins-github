@@ -1,0 +1,6 @@
+def greet():
+    print("Hello Rajput G ⚔️")
+    print("This build is triggered by Jenkins 🚀")
+
+if __name__ == "__main__":
+    greet()
