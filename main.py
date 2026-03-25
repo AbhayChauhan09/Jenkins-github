@@ -8,3 +8,4 @@ if __name__ == "__main__":
 
 print ("jai bhawani")
 print ("mahakal maharaj ki jai")
+print ("veer bhogya vasundhara"
