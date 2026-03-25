@@ -6,4 +6,4 @@ if __name__ == "__main__":
     greet()
 
 
-print "jai bhawani"
+print ("jai bhawani")
